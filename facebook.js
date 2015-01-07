@@ -19,7 +19,7 @@
 
 		for(var x=2;x<length;x=x+2){
 			divs[x].getElementsByTagName('button')[0].click();
-			console.log("Sent to "+divs[x].getElementsByTagName('strong')[0].innerText + "count "+String(x/2));
+			console.log("Sent to "+divs[x].getElementsByTagName('strong')[0].innerText + " count "+String(x/2));
 		}
 	}
 	// scroll to all members
