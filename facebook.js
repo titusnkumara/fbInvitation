@@ -36,5 +36,3 @@
 	
 	
 })();
-
-var currentlikes = 1106;
