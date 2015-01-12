@@ -26,7 +26,7 @@
 		var b =document.getElementsByClassName("_5l6a")[0];
 		divs = b.getElementsByClassName("_42ef");
 		length = divs.length;
-		console.log(String(length)+" captured");
+		console.log(String(length/2)+" captured");
 		var countWithoutError = 0;
 		for(var x=2;x<length;x=x+2){
 			//edit here
